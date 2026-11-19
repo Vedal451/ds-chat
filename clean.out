@@ -1,0 +1,2 @@
+rm 'add.log'
+rm 'init.log'
